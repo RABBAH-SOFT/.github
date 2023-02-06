@@ -1,9 +1,11 @@
-# Welcome RABBAH SOFT
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQE1dugryV7b4g/article-cover_image-shrink_720_1280/0/1614260946958?e=2147483647&v=beta&t=Ug01MxAK1pjODyez6emxEtMdDiWo8THnJZDQ-aHAdEM)
+
+# RABBAH SOFT
 
 Nous sommes une société d’intégration et de développement informatique ayant comme objectif la contribution au succès de tous nos partenaires.  
 Justifiant une présence de 9 ans sur le marché marocain, nous ne cessons pas de doter nos clients de solutions innovantes, puissantes et adaptées à leurs besoins.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/rabbah soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabbah soft" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rabbah soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabbah soft" height="30" width="40" /></a>
