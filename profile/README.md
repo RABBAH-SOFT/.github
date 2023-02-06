@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQE1dugryV7b4g/article-cover_image-shrink_720_1280/0/1614260946958?e=2147483647&v=beta&t=Ug01MxAK1pjODyez6emxEtMdDiWo8THnJZDQ-aHAdEM)
-
 # RABBAH SOFT
 
 Nous sommes une société d’intégration et de développement informatique ayant comme objectif la contribution au succès de tous nos partenaires.  
