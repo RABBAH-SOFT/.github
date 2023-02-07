@@ -7,10 +7,10 @@ Justifiant une présence de 9 ans sur le marché marocain, nous ne cessons pas d
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://twitter.com/rabbah soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabbah soft" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rabbah soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabbah soft" height="30" width="40" /></a>
-<a href="https://fb.com/rabbah soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabbah soft" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rabbah soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rabbah soft" height="30" width="40" /></a>
+<a href="https://twitter.com/RABBAHSOFT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabbahsoft" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/10130369/admin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabbah soft" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rabbahsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabbah soft" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rabbahsoft446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rabbah soft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
