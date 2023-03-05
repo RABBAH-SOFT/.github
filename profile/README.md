@@ -1,4 +1,4 @@
-<img src="./assets/20230305_121024_banniere.png" alt="Banniere" style="height:300px; width: 900px" />
+<img src="profile/assets/20230305_121024_banniere.png" alt="Banniere" style="height:300px; width: 900px" />
 
 # RABBAH SOFT
 
